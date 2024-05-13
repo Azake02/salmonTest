@@ -1,1 +1,0 @@
-{"uuid":"992e27f4-5930-4187-8823-5aa9e985413d","historyId":"e27ac14f0ddce9d1fea5e18255dbe372","labels":[{"name":"suite","value":"com.automation.tests.PostCrudTests"},{"name":"package","value":"com.automation.tests.PostCrudTests"}],"name":"testReadPost()","status":"passed","stage":"finished","description":"Get post","start":1715578453465,"stop":1715578454598}

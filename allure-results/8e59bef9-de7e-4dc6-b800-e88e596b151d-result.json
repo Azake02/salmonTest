@@ -1,1 +1,0 @@
-{"uuid":"8e59bef9-de7e-4dc6-b800-e88e596b151d","historyId":"6f4f49fb8324f9d29f4941e29bb3ef97","labels":[{"name":"suite","value":"com.automation.tests.PostCrudTests"},{"name":"package","value":"com.automation.tests.PostCrudTests"}],"name":"testCreatePost()","status":"passed","stage":"finished","description":"Create post","start":1715578454603,"stop":1715578455381}
